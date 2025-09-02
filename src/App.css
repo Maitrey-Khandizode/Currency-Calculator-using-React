@@ -1,0 +1,16 @@
+.app {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+.currency-input {
+  margin: 10px;
+}
+
+input, select {
+  padding: 8px;
+  margin: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
